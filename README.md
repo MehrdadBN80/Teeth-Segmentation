@@ -34,8 +34,3 @@ The main files and folders in this repository are:
 - `teeth-damaged-detection.ipynb`: Jupyter Notebook with code for model training and evaluation.
 - `requirements.txt`: List of required dependencies.
 
-## Usage
-
-1. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt

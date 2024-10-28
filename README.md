@@ -32,8 +32,6 @@ The model is trained using a combination of **Dice Loss** and **Focal Loss** to 
 The main files and folders in this repository are:
 
 - `teeth-damaged-detection.ipynb`: Jupyter Notebook with code for model training and evaluation.
-- `model.py`: Python script containing the model architecture.
-- `train.py`: Script to initiate the training process.
 - `requirements.txt`: List of required dependencies.
 
 ## Usage
